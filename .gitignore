@@ -1,0 +1,5 @@
+moc_*
+*.pro.user
+*.xcodeproj
+*.app
+*.dmg
